@@ -33,3 +33,5 @@ Here in this project i have folllowed 5 basic steps
                 -->https://www.webmd.com/diabetes/gestational-diabetes#:~:text=During%20pregnancy%2C%20your%20placenta%20makes,and%20you%20get%20gestational%20diabetes.
                 -->https://www.mayoclinic.org/diseases-conditions/diabetes/diagnosis-treatment/drc-          20371451#:~:text=A%20blood%20sugar%20level%20less,mmol%2FL)%20indicates%20prediabetes.
                 -->https://care.diabetesjournals.org/content/12/5/309#:~:text=Skin%20thickness%20is%20primarily%20determined,presence%20of%20certain%20diabetic%20complications.
+                
+       
